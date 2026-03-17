@@ -101,6 +101,8 @@ INNER JOIN skills_dim
     ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY salary_year_avg DESC;
 ```
+<img width="605" height="1282" alt="image" src="https://github.com/user-attachments/assets/d9d870b0-e274-45ab-8454-5125bc0fef79" />
+
 
 📊 **Insights:**
 
@@ -130,6 +132,8 @@ GROUP BY skills
 ORDER BY demand_count DESC
 LIMIT 5;
 ```
+<img width="546" height="334" alt="image" src="https://github.com/user-attachments/assets/d0b47eb0-d139-4e07-be68-e7b6787ab61e" />
+
 
 📊 **Insights:**
 
@@ -160,6 +164,9 @@ GROUP BY skills
 ORDER BY avg_salary DESC
 LIMIT 10;
 ```
+
+<img width="1844" height="1596" alt="image" src="https://github.com/user-attachments/assets/20784158-f10f-4559-92e1-323b2f856d5c" />
+
 
 📊 **Insights:**
 
@@ -193,6 +200,8 @@ HAVING COUNT(skills_job_dim.job_id) > 10
 ORDER BY avg_salary DESC, demand_count DESC
 LIMIT 10;
 ```
+<img width="1179" height="1462" alt="image" src="https://github.com/user-attachments/assets/54c04562-1376-4a0e-8f65-72e8d3079755" />
+
 
 📊 **Insights:**
 
