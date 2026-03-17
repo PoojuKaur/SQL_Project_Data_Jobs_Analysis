@@ -57,6 +57,8 @@ WHERE
 ORDER BY salary_year_avg DESC
 LIMIT 10;
 ```
+<img width="605" height="1282" alt="image" src="https://github.com/user-attachments/assets/ee148f55-62df-4917-81b8-4794cb6a2213" />
+
 
 📊 **Insights:**
 
