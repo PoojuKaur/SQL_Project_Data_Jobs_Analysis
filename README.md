@@ -1,6 +1,6 @@
 # 📊 Data Analyst Job Market Analysis (SQL Project)
 
-SQL queries? Check them out here: sql_analysis
+SQL queries? Check them out here: sql_analysis - https://github.com/PoojuKaur/SQL_Project_Data_Jobs_Analysis/tree/main/sql_analysis
 ## 📌 Introduction
 
 Dive into the data job market! This project focuses on **data analyst roles**, exploring:
