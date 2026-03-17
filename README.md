@@ -1,5 +1,6 @@
 # 📊 Data Analyst Job Market Analysis (SQL Project)
 
+SQL queries? Check them out here: sql_analysis
 ## 📌 Introduction
 
 Dive into the data job market! This project focuses on **data analyst roles**, exploring:
@@ -30,10 +31,6 @@ Dive into the data job market! This project focuses on **data analyst roles**, e
 
 ---
 
-## 📂 Project Structure
-
-To view quries open sql_analysis folder
----
 
 ## 📊 The Analysis
 
